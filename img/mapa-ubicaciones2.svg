@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 915.27 687" style="enable-background:new 0 0 915.27 687;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1D1D1B;}
+	.st1{font-family:'Helvetica-Bold';}
+	.st2{font-size:17px;}
+	.st3{font-family:'Helvetica';}
+	.st4{font-size:24.2515px;}
+	
+		.st5{opacity:0.84;fill:none;stroke:#000000;stroke-width:1.8644;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4.661,4.661;}
+</style>
+<g id="mapa">
+	
+		<image style="overflow:visible;" width="1659" height="1257" xlink:href="E345158162A15328.png"  transform="matrix(0.5519 0 0 0.5519 -0.2725 -0.0974)">
+	</image>
+</g>
+<g id="nombres">
+	<g>
+		<text transform="matrix(1 0 0 1 300.4311 296.4857)" class="st0 st1 st2">MALASIA</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 302.3802 51.1177)" class="st0 st3 st4">ASIA</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 375.5933 638.8448)" class="st0 st3 st4">OCEANÍA</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 233.5714 199.6263)" class="st0 st1 st2">TAILANDIA</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 129.7971 497.3582)" class="st0 st1 st2">INDONESIA</text>
+	</g>
+</g>
+<g id="zonas">
+	<path class="st5" d="M202.39,193.95l-10.72,6.2c0,0-1.03,4.57,3.54,5.22c4.57,0.65,8.16,0.98,10.77,4.57
+		c2.61,3.59,4.89,3.91,4.24,7.83c-0.65,3.91-0.97,8.96,2.78,8.23s7.99-9.21,10.27-8.88s9.46-5.22,9.46-5.22s-5.87-2.61-8.48-7.83
+		c-2.61-5.22-5.55-6.52-5.55-6.52L202.39,193.95z"/>
+	<path class="st5" d="M237.74,213.75c0,0-11.84,14.31-19.85,17.53c-8.01,3.22-24.72,6.8-24.72,6.8l3.83,22.89l22.29,38.66
+		l55.02,37.17l11.68-5.99l-19.69-35.15l-2.79-22.54l2.44-23.61l-11.49-19.67L237.74,213.75z"/>
+	<path class="st5" d="M76.55,234.31l-17.87-5.74l-3.46,7.59c0,0,4.91,7.93,10.38,16.5c5.42,8.51,17.98,10.18,28.25,16.06
+		c3.6,2.06,9.12,16.05,12.97,19.61c6.19,5.71,10.09,1.65,10.09,6.78c0,8.32-0.86,13.19,2.02,14.05c2.88,0.86,22.2,4.02,25.08,12.62
+		c2.88,8.6,6.63,30.12,8.94,32.99c2.31,2.87,9.8,2.58,14.42,8.89c4.61,6.31,27.68,65.11,44.69,76.58
+		c9.26,6.25,30.77,27.19,43.53,38.55c10.27,9.14,12.72,9.32,14.99,11.65c3.99,4.08,13.55,15.49,15.57,16.06
+		c2.02,0.57,3.46-7.74,6.92-6.31c3.46,1.43,6.05,2.01,6.05,2.01l2.88-6.31c0,0-61.7-66.54-66.89-73.14
+		c-5.19-6.6-43.82-54.78-45.55-58.23s-46.99-66.91-53.91-76.19C128.73,279.06,76.55,234.31,76.55,234.31z"/>
+</g>
+</svg>
